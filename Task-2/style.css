@@ -1,0 +1,25 @@
+#container {
+    box-sizing: border-box;
+    display: flex;
+    flex-wrap: wrap;
+    overflow: auto;
+    margin: auto;
+    width: 50em;
+    height: 25em;
+    background-color: skyblue;
+}
+button {    
+    position: relative;
+    width: 10%;
+    height: 2em;
+    margin-left: 2%;
+    left: 31%;
+    top: 2em;
+}
+
+#div-child {
+    width: 5em;
+    height: 5em;
+    background-color: orange;
+    margin: 1em 0 0 1em;
+}

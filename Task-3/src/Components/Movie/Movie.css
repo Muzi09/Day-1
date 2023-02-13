@@ -1,0 +1,74 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background: gray;
+}
+
+#input {
+    margin: 1em;
+    font-size: larger;
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+    height: 1.4em;
+    border-radius: 5px;
+    padding-left: 6px;
+}
+
+#search {
+    font-size: larger;  
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+    width: 5em;
+    height: 1.55em;
+}
+
+.poster {
+    margin: 0 0 0 3em;
+}
+
+#info-container {
+    background-color: white;
+    padding: 1em;
+    width: 20em;
+    height: 15em;
+    position: relative;
+    bottom: 25em;
+    left: 25em;
+    border: 2px solid black;
+    border-radius: 5px;
+    box-shadow: -5px 5px 5px 0px black;
+    margin-top: 1em;
+}
+
+.title {
+    position: relative;
+    left: 12.4em;
+    top: 1em;
+    font-size: xx-large;
+    font-weight: bold;
+    color: black;
+}
+
+.year {
+    background-color: white;
+    margin-top: 0.7em;
+    font-weight: bold;
+    font-size: larger;
+}
+
+.imdb{
+    background-color: white;
+    margin-top: 0.7em;
+    font-weight: bold;
+    font-size: larger;
+}
+
+.actors {
+    background-color: white;   
+    margin-top: 0.7em; 
+    font-weight: bold;
+    font-size: larger;
+}
